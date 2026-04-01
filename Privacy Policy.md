@@ -1,8 +1,6 @@
 # Privacy Policy
 
 **Effective Date:** 2025-08-01  
-**App Name:** Coincell Electrode Calculator  
-**Package Name:** com.coincell.electrodecalculator
 
 ---
 
@@ -44,7 +42,7 @@ If you have any questions or concerns about this Privacy Policy, please contact:
 
 # 개인정보처리방침
 
-**Coincell Electrode Calculator** 앱은 사용자 개인정보를 전혀 수집하거나 저장하지 않습니다.
+본 앱은 사용자 개인정보를 전혀 수집하거나 저장하지 않습니다.
 
 ## 수집하는 개인정보
 이 앱은 어떤 개인정보도 수집하지 않습니다.  
@@ -58,7 +56,7 @@ If you have any questions or concerns about this Privacy Policy, please contact:
 
 ## 문의
 앱 또는 개인정보 관련 문의는 아래 이메일로 연락해주세요.  
-📧 **nys9603@naver.com**
+📧 **nys9603@gmail.com**
 
 ---
 
