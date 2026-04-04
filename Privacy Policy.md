@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 2025-08-01  
+**Effective Date:** 2026-04-05
 
 ---
 
@@ -33,8 +33,8 @@ If we ever change how this application handles data, we will update this privacy
 ---
 
 ## 6. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact: **nys9603@naver.com**
-- **Developer:** YOON-0125  
+If you have any questions or concerns about this Privacy Policy, please contact: **Labbystudio.cs@gmail.com**
+- **Developer:** LabbyStudio 
 - *
 
 
@@ -56,8 +56,8 @@ If you have any questions or concerns about this Privacy Policy, please contact:
 
 ## 문의
 앱 또는 개인정보 관련 문의는 아래 이메일로 연락해주세요.  
-📧 **nys9603@gmail.com**
+📧 **Labbystudio.cs@gmail.com**
 
 ---
 
-_본 정책은 2025년 8월 1일에 마지막으로 업데이트되었습니다._
+_본 정책은 2026년 4월 5일에 마지막으로 업데이트되었습니다._
